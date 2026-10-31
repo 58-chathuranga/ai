@@ -1,0 +1,1 @@
+Package versions are intentionally not fully pinned. setup.bat installs compatible current versions from requirements.txt. If a future package update breaks compatibility, record a tested set of versions here and pin them in requirements.txt.

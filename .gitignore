@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+nexora_history.sqlite3
+*.log
+.DS_Store
