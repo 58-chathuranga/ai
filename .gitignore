@@ -5,3 +5,4 @@ __pycache__/
 nexora_history.sqlite3
 *.log
 .DS_Store
+*.sqlite3
